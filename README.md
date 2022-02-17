@@ -8,16 +8,21 @@ O foco desse repositório é apresentar conteúdos introdutórios para o estudo 
 - Estrutura de dados
 - Paradigmas (Funcional e Orietado à Objetos)
 
-2. Redes de computadores
+O codeforces é uma ótima plataforma para treinar os conceitos aprendidos sobre algorítmos e estrutura de dados.
+https://codeforces.com/
+
+2. Aprender Inglês é importante. Muito importante.
+
+3. Redes de computadores
 
 - HTTP: https://datatracker.ietf.org/doc/html/rfc2616
 - UDP, TCP
 
-3. Framework
+4. Framework
 
 - Spring: https://spring.io/
 
-4. Fluxos de trabalho
+5. Fluxos de trabalho
 
 - Git: https://git-scm.com/
 - Boas práticas: https://www.conventionalcommits.org/en/v1.0.0/
@@ -29,8 +34,18 @@ O foco desse repositório é apresentar conteúdos introdutórios para o estudo 
 - Metodologias ágeis
 - Arquitetura
 - Pensando em soluções
+- Testes unitários (JUnit, Mockito)
 
-6. Leituras
+7. Computação em nuvem
+
+- AWS
+
+8. Deploy
+
+- Docker
+- Kubernetes
+
+10. Leituras
 
 - Domain Driven Design
 - Clean Architecture
