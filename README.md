@@ -36,6 +36,11 @@ https://codeforces.com/
 - Pensando em soluções
 - Testes unitários (JUnit, Mockito)
 
+Referências de leitura: 
+
+https://engsoftmoderna.info/
+https://agilemanifesto.org/iso/ptbr/manifesto.html
+
 7. Computação em nuvem
 
 - AWS
